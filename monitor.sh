@@ -38,7 +38,7 @@ check_user_count() {
   fi
 }
 
-# Main function
+# Main
 main() {
   check_folder_usage
   check_cpu_usage
